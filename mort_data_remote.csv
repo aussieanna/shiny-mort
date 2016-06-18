@@ -1,0 +1,106 @@
+"","category","geography","YEAR","SEX","deaths","crude_rate","age_standardised_rate","median_age","premature_deaths_percent"
+"1","Remoteness area","Major Cities of Australia",2009,"Males",46057.852,612.55485,668.01874,78,41.387937
+"2","Remoteness area","Major Cities of Australia",2010,"Males",46836.95,612.54189,657.91521,78,40.669171
+"3","Remoteness area","Major Cities of Australia",2011,"Males",48032.615,618.64336,653.35585,78,39.914008
+"4","Remoteness area","Major Cities of Australia",2012,"Males",47415.493,598.86065,625.44285,79,39.044256
+"5","Remoteness area","Major Cities of Australia",2013,"Males",48062.469,595.12679,613.08036,78,39.981652
+"6","Remoteness area","Inner Regional Australia",2009,"Males",16272.104,815.84185,754.46111,77,42.293258
+"7","Remoteness area","Inner Regional Australia",2010,"Males",16374.516,809.71367,730.42596,77,42.158603
+"8","Remoteness area","Inner Regional Australia",2011,"Males",17128.073,837.30597,736.26227,77,40.981994
+"9","Remoteness area","Inner Regional Australia",2012,"Males",17044.566,823.232,706.97431,77,40.858782
+"10","Remoteness area","Inner Regional Australia",2013,"Males",17147.521,818.17915,684.95356,77,40.963476
+"11","Remoteness area","Outer Regional Australia",2009,"Males",8046.73,792.42839,793.21973,75,47.732141
+"12","Remoteness area","Outer Regional Australia",2010,"Males",8016.818,783.55121,767.39066,76,47.124505
+"13","Remoteness area","Outer Regional Australia",2011,"Males",8173.2541,794.50408,760.64285,76,46.100782
+"14","Remoteness area","Outer Regional Australia",2012,"Males",8192.1809,788.33734,731.5328,76,46.710232
+"15","Remoteness area","Outer Regional Australia",2013,"Males",8464.8796,806.95753,728.54598,76,46.364345
+"16","Remoteness area","Remote Australia",2009,"Males",1027.7746,624.35054,820.46863,72,59.7674
+"17","Remoteness area","Remote Australia",2010,"Males",1102.9543,665.21173,837.79382,72,61.230878
+"18","Remoteness area","Remote Australia",2011,"Males",1046.7004,626.33913,777.49596,72,59.469953
+"19","Remoteness area","Remote Australia",2012,"Males",1070.7929,629.27849,764.28451,73,57.218959
+"20","Remoteness area","Remote Australia",2013,"Males",1086.8736,627.70276,733.83564,72,60.051511
+"21","Remoteness area","Very Remote Australia",2009,"Males",608.53809,567.47027,921.36489,65,75.665135
+"22","Remoteness area","Very Remote Australia",2010,"Males",700.76142,635.31738,994.95471,64,76.673585
+"23","Remoteness area","Very Remote Australia",2011,"Males",597.35674,530.54047,897.28517,66,71.887661
+"24","Remoteness area","Very Remote Australia",2012,"Males",669.96694,580.4248,949.37748,65,72.016713
+"25","Remoteness area","Very Remote Australia",2013,"Males",640.25539,544.48115,877.39061,67,71.259009
+"26","Remoteness area","Unknown/missing",2009,"Males",307,NA,NA,NA,NA
+"27","Remoteness area","Unknown/missing",2010,"Males",452,NA,NA,NA,NA
+"28","Remoteness area","Unknown/missing",2011,"Males",352,NA,NA,NA,NA
+"29","Remoteness area","Unknown/missing",2012,"Males",401,NA,NA,NA,NA
+"30","Remoteness area","Unknown/missing",2013,"Males",380,NA,NA,NA,NA
+"31","Remoteness area","Australia (total)",2009,"Males",72320,669.58022,704.84547,77,43.03927
+"32","Remoteness area","Australia (total)",2010,"Males",73484,669.99574,692.77244,77,42.548038
+"33","Remoteness area","Australia (total)",2011,"Males",75330,677.53566,687.39329,78,41.561131
+"34","Remoteness area","Australia (total)",2012,"Males",74794,661.14355,660.14079,78,41.091531
+"35","Remoteness area","Australia (total)",2013,"Males",75782,658.31285,645.94018,78,41.688
+"36","Remoteness area","Major Cities of Australia",2009,"Females",45520.814,593.94262,457.92117,83,25.882633
+"37","Remoteness area","Major Cities of Australia",2010,"Females",46339.408,594.35641,450.65997,84,25.47138
+"38","Remoteness area","Major Cities of Australia",2011,"Females",47484.839,599.52592,448.96958,84,25.187375
+"39","Remoteness area","Major Cities of Australia",2012,"Females",48031.473,594.85685,442.54662,84,24.750395
+"40","Remoteness area","Major Cities of Australia",2013,"Females",47867.317,581.21523,431.87701,84,25.486381
+"41","Remoteness area","Inner Regional Australia",2009,"Females",15003.075,746.01375,511.95054,83,27.742739
+"42","Remoteness area","Inner Regional Australia",2010,"Females",15199.677,744.95916,499.68239,83,26.923631
+"43","Remoteness area","Inner Regional Australia",2011,"Females",15947.37,772.12277,507.31517,83,26.71567
+"44","Remoteness area","Inner Regional Australia",2012,"Females",16106.616,769.71933,497.17926,83,26.245201
+"45","Remoteness area","Inner Regional Australia",2013,"Females",15953.351,752.81944,480.21298,84,26.308814
+"46","Remoteness area","Outer Regional Australia",2009,"Females",6664.5791,679.28277,538.03744,82,31.556516
+"47","Remoteness area","Outer Regional Australia",2010,"Females",6898.0241,696.32347,543.54048,82,30.190342
+"48","Remoteness area","Outer Regional Australia",2011,"Females",6822.9298,683.83845,522.19563,82,30.833982
+"49","Remoteness area","Outer Regional Australia",2012,"Females",6758.9963,670.19693,501.45673,82,30.829354
+"50","Remoteness area","Outer Regional Australia",2013,"Females",6782.1786,666.0825,489.30961,82,31.783655
+"51","Remoteness area","Remote Australia",2009,"Females",738.23848,506.56919,582.17041,79,44.617551
+"52","Remoteness area","Remote Australia",2010,"Females",741.34184,505.11824,575.34458,80,41.762568
+"53","Remoteness area","Remote Australia",2011,"Females",769.33246,521.48587,574.33761,79,45.878023
+"54","Remoteness area","Remote Australia",2012,"Females",739.12779,497.22021,536.59124,80,44.150989
+"55","Remoteness area","Remote Australia",2013,"Females",695.89526,465.14886,492.26532,78,45.67974
+"56","Remoteness area","Very Remote Australia",2009,"Females",376.29296,424.10197,666.75613,70,69.429359
+"57","Remoteness area","Very Remote Australia",2010,"Females",494.54838,551.87741,867.81024,71,65.568408
+"58","Remoteness area","Very Remote Australia",2011,"Females",398.52837,439.23684,657.87426,68,69.915552
+"59","Remoteness area","Very Remote Australia",2012,"Females",426.78694,467.558,702.93586,70,63.666419
+"60","Remoteness area","Very Remote Australia",2013,"Females",401.2581,437.97341,636.2344,68,66.966499
+"61","Remoteness area","Unknown/missing",2009,"Females",137,NA,NA,NA,NA
+"62","Remoteness area","Unknown/missing",2010,"Females",316,NA,NA,NA,NA
+"63","Remoteness area","Unknown/missing",2011,"Females",179,NA,NA,NA,NA
+"64","Remoteness area","Unknown/missing",2012,"Females",241,NA,NA,NA,NA
+"65","Remoteness area","Unknown/missing",2013,"Females",196,NA,NA,NA,NA
+"66","Remoteness area","Australia (total)",2009,"Females",68440,628.41709,479.77848,83,27.369959
+"67","Remoteness area","Australia (total)",2010,"Females",69989,632.58778,474.85674,83,26.847076
+"68","Remoteness area","Australia (total)",2011,"Females",71602,638.0622,471.74108,83,26.665456
+"69","Remoteness area","Australia (total)",2012,"Females",72304,633.38826,463.51923,84,26.21985
+"70","Remoteness area","Australia (total)",2013,"Females",71896,619.02892,450.43282,84,26.819295
+"71","Remoteness area","Major Cities of Australia",2009,"Persons",91578.666,603.15974,551.7167,81,33.680748
+"72","Remoteness area","Major Cities of Australia",2010,"Persons",93176.358,603.36069,543.19636,81,33.110852
+"73","Remoteness area","Major Cities of Australia",2011,"Persons",95517.454,608.98944,540.50694,81,32.592919
+"74","Remoteness area","Major Cities of Australia",2012,"Persons",95446.966,596.83912,524.67775,81,31.851202
+"75","Remoteness area","Major Cities of Australia",2013,"Persons",95929.786,588.1029,513.5486,81,32.74876
+"76","Remoteness area","Inner Regional Australia",2009,"Persons",31275.18,780.78327,622.93904,80,35.313201
+"77","Remoteness area","Inner Regional Australia",2010,"Persons",31574.193,777.19235,606.42049,80,34.824555
+"78","Remoteness area","Inner Regional Australia",2011,"Persons",33075.443,804.55759,612.66363,80,34.103466
+"79","Remoteness area","Inner Regional Australia",2012,"Persons",33151.181,796.33372,594.93474,81,33.758723
+"80","Remoteness area","Inner Regional Australia",2013,"Persons",33100.872,785.3184,576.59694,80,33.900491
+"81","Remoteness area","Outer Regional Australia",2009,"Persons",14711.309,736.82838,661.09607,79,40.404192
+"82","Remoteness area","Outer Regional Australia",2010,"Persons",14914.842,740.64131,652.27053,79,39.292557
+"83","Remoteness area","Outer Regional Australia",2011,"Persons",14996.184,740.01729,637.00732,79,39.154728
+"84","Remoteness area","Outer Regional Australia",2012,"Persons",14951.177,730.15168,613.47717,79,39.530945
+"85","Remoteness area","Outer Regional Australia",2013,"Persons",15247.058,737.5684,605.37864,78,39.878579
+"86","Remoteness area","Remote Australia",2009,"Persons",1766.0131,569.04286,703.10066,75,53.434377
+"87","Remoteness area","Remote Australia",2010,"Persons",1844.2961,590.04071,712.35357,75,53.405305
+"88","Remoteness area","Remote Australia",2011,"Persons",1816.0328,577.17616,681.13226,74,53.711955
+"89","Remoteness area","Remote Australia",2012,"Persons",1809.9207,567.70426,651.59485,75,51.882316
+"90","Remoteness area","Remote Australia",2013,"Persons",1782.7689,552.35466,618.23959,75,54.441559
+"91","Remoteness area","Very Remote Australia",2009,"Persons",984.83105,502.55713,798.66279,67,73.282515
+"92","Remoteness area","Very Remote Australia",2010,"Persons",1195.3098,597.91499,941.94981,67,72.078921
+"93","Remoteness area","Very Remote Australia",2011,"Persons",995.88511,489.79723,776.55795,67,71.098472
+"94","Remoteness area","Very Remote Australia",2012,"Persons",1096.7539,530.58381,828.19287,67,68.767309
+"95","Remoteness area","Very Remote Australia",2013,"Persons",1041.5135,497.83874,761.67645,67,69.605257
+"96","Remoteness area","Unknown/missing",2009,"Persons",444,NA,NA,NA,NA
+"97","Remoteness area","Unknown/missing",2010,"Persons",768,NA,NA,NA,NA
+"98","Remoteness area","Unknown/missing",2011,"Persons",531,NA,NA,NA,NA
+"99","Remoteness area","Unknown/missing",2012,"Persons",642,NA,NA,NA,NA
+"100","Remoteness area","Unknown/missing",2013,"Persons",576,NA,NA,NA,NA
+"101","Remoteness area","Australia (total)",2009,"Persons",140760,648.9132,581.96371,80,35.420574
+"102","Remoteness area","Australia (total)",2010,"Persons",143473,651.21019,574.16167,80,34.888794
+"103","Remoteness area","Australia (total)",2011,"Persons",146932,657.70744,569.94683,81,34.302262
+"104","Remoteness area","Australia (total)",2012,"Persons",147098,647.20326,553.6263,81,33.781561
+"105","Remoteness area","Australia (total)",2013,"Persons",147678,638.5836,540.44255,81,34.449275
